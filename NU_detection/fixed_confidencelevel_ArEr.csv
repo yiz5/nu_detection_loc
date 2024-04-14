@@ -1,0 +1,6 @@
+,"(0.001, 0.8)","(0.001, 0.9)","(0.001, 0.95)","(0.01, 0.8)","(0.01, 0.9)","(0.01, 0.95)","(0.1, 0.8)","(0.1, 0.9)","(0.1, 0.95)"
+CNO_high__smear0.1all_noppBe7Method2,21,26,31,14,18,22,6,9,12
+pep_high__smear0.1all_noppBe7Method2,29,36,42,19,25,30,9,12,16
+atm_SURF_high_NR_Argon_tot_smear0.1_lessbgMethod2,233,334,428,190,228,316,132,172,213
+hep_SURF_high_NR_Argon_tot_smear0.1_allHEPMethod2,33714,41976,50811,21861,28986,35435,9943,14649,19133
+dsnb_SURF_high_NR_Argon_tot_smear0.1_lessatmlesselseMethod2,303435,376133,443940,195696,259076,316675,90155,136656,173342
